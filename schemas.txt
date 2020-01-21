@@ -1,0 +1,230 @@
+{
+    'SearchFor': 'OnlyRegisterCharities',
+    'Keyword': 'MatchAnyWords',
+    'SearchKeyword': 'homelessness',
+    'SearchIn': 'All',
+    'WhereOperates': {
+        'EnglandAndWales': 'OnlySpecific',
+        'Specific': 'B-19'
+    },
+    'RegistrationDateFrom_Day': 0,
+    'RegistrationDateFrom_Month': 0,
+    'RegistrationDateFrom_Year': 0,
+    'RegistrationDateFromIsSpecified': False,
+    'RegistrationDateTo_Day': 0,
+    'RegistrationDateTo_Month': 0,
+    'RegistrationDateTo_Year': 0,
+    'RegistrationDateToIsSpecified': False,
+    'RemovedDateFrom_Day': 0,
+    'RemovedDateFrom_Month': 0,
+    'RemovedDateFrom_Year': 0,
+    'RemovedDateFromIsSpecified': False,
+    'RemovedDateTo_Day': 0,
+    'RemovedDateTo_Month': 0,
+    'RemovedDateTo_Year': 0,
+    'RemovedDateToIsSpecified': False,
+    'IncomeRangeFrom': None,
+    'IncomeRangeTo': 100000,
+    'SearchKeywordRaw': None,
+    'IncomeRangeRaw': None
+}
+Sample getCharity Entry:
+{
+    'RegisteredCharityNumber': 1173678,
+    'SubsidiaryNumber': 0,
+    'CharityName': 'ELSHADDAI MY HELPER                                                                                                                                   ',
+    'MainCharityName': 'ELSHADDAI MY HELPER                                                                                                                                   ',
+    'RegistrationStatus': 'Registered',
+    'PublicEmailAddress': 'BOFASORANTI@AOL.COM',
+    'MainPhoneNumber': '07949946807'
+}
+Sample get individual charity result:
+{
+    'CharityNumber': 5101107,
+    'HasAccountsToDisplay': True,
+    'RegisteredCharityNumber': 1173678,
+    'SubsidiaryNumber': 0,
+    'CharityName': 'ELSHADDAI MY HELPER                                                                                                                                   ',
+    'RegistrationHistory': [
+        {
+            'RegistrationDate': '05/07/2017 10:15:00',
+            'RegistrationRemovalDate': None,
+            'RemovalReason': None
+        }
+    ],
+    'WorkingNames': [],
+    'AreaOfBenefit': None,
+    'GoverningDocument': 'CIO - ASSOCIATION Registered 05 Jul 2017',
+    'CharitableObjects': 'THE RELIEF OF POVERTY AND ASSISTANCE OF HOMELESS PEOPLE IN NEED IN HACKNEY, STRATFORD AND NIGERIA WHO SUFFERS THE EFFECT OF HOMELESSNESS AS DETERMINED BY THE TRUSTEES IN PARTICULAR BY THE FOLLOWING MEANS:\nA) SUPPLYING THEM WITH FOOD, CLOTHING AND RELATED SUPPORT\nB) PROVIDING ASSISTANCE AND ADVICE TO LIKE-MINDED CHARITABLE GROUPS',
+    'RegisteredCompanyNumber': None,
+    'ContactName': {
+        'CharityRoleName': None
+    },
+    'Address': {
+        'Line1': '1  MORRIS  COURT                   ',
+        'Line2': 'WALTHAM  ABBEY                     ',
+        'Line3': None,
+        'Line4': None,
+        'Line5': None,
+        'Postcode': 'EN 9 3DX'
+    },
+    'PublicTelephoneNumber': '07949946807',
+    'PublicFaxNumber': None,
+    'EmailAddress': 'BOFASORANTI@AOL.COM',
+    'WebsiteAddress': None,
+    'Activities': 'The relief of poverty and assistance of homeless people in need in Hackney, Stratford and Nigeria who suffers the effect of homelessness as determined by the trustees in particular by the following means:\na)   supplying them with food, clothing and related support\nb)   providing assistance and advice to like-minded charitable groups\n',
+    'AreaOfOperation': [
+        'Hackney                                           ',
+        'Newham                                            ',
+        'Nigeria                                           '
+    ],
+    'Classification': {
+        'What': [
+            'Disability                                                       ',
+            'The Prevention Or Relief Of Poverty                              '
+        ],
+        'Who': [],
+        'How': [
+            'Provides Advocacy/advice/information                             ',
+            'Other Charitable Activities                                      '
+        ]
+    },
+    'Trustees': [
+        {
+            'TrusteeNumber': 3696952,
+            'TrusteeName': 'MOJI FELICIA MALOMO',
+            'RelatedCharitiesCount': 0,
+            'RelatedCharities': []
+        },
+        {
+            'TrusteeNumber': 12014054,
+            'TrusteeName': 'ADEFUNKE ADETUNJI HUNTLEY',
+            'RelatedCharitiesCount': 0,
+            'RelatedCharities': []
+        },
+        {
+            'TrusteeNumber': 12014055,
+            'TrusteeName': 'BEATRICE FASORANTI',
+            'RelatedCharitiesCount': 0,
+            'RelatedCharities': []
+        },
+        {
+            'TrusteeNumber': 12014056,
+            'TrusteeName': 'ESTHER OKON WILLIAMS',
+            'RelatedCharitiesCount': 0,
+            'RelatedCharities': []
+        },
+        {
+            'TrusteeNumber': 12014057,
+            'TrusteeName': 'MORENIKE AMUDOAGHAN',
+            'RelatedCharitiesCount': 0,
+            'RelatedCharities': []
+        }
+    ],
+    'Submission': [
+        {
+            'MailingCycle': 'AR18',
+            'FyStart': '05 Jul 2017',
+            'FyEnd': '31 Mar 2018',
+            'AnnualReturnReceivedDate': '29 Jan 2019',
+            'AccountsReturnReceivedDate': '29 Jan 2019',
+            'GrossIncome': '0',
+            'TotalExpenditure': '0'
+        },
+        {
+            'MailingCycle': 'AR19',
+            'FyStart': '01 Apr 2018',
+            'FyEnd': '31 Mar 2019',
+            'AnnualReturnReceivedDate': None,
+            'AccountsReturnReceivedDate': None,
+            'GrossIncome': None,
+            'TotalExpenditure': None
+        }
+    ],
+    'AccountListing': [
+        {
+            'AccountPeriodYearEndDate': '31 Mar 2018',
+            'Filename': 'Ends78\\0001173678_AC_20180331_E_C.pdf',
+            'DisplayName': None,
+            'SizeInKB': 0,
+            'HyperlinkReference': '/Accounts/Ends78\\0001173678_AC_20180331_E_C.pdf',
+            'Language': None,
+            'IsColour': None
+        }
+    ],
+    'CIOInsolvencyListing': [],
+    'ExtendedRegistrationHistory': [
+        {
+            'CharityEventID': 649228,
+            'OrganisationNumber': 5101107,
+            'DateOfEvent': datetime.datetime(2017, 7, 5, 10, 15, 5),
+            'AssociatedOrganisationNumber': -1,
+            'CharityGroupID': -1,
+            'GroupSubsidarySuffix': 0,
+            'CharityEventReasonCode': None,
+            'CharityEventTypeCode': 'CIOR',
+            'RegisteredCharityNumber': 1173678,
+            'AssociatedRegisteredCharityNumber': -1,
+            'AssociatedCharityName': None,
+            'CharityEventClassCode': 'REG',
+            'CharityEventTypeNameEnglish': 'CHARITABLE INCORPORATED ORGANISATION',
+            'CharityEventTypeNameWelsh': 'SEFYDLIAD ELUSENNOL CORFFOREDIG'
+        }
+    ],
+    'CIOAmalgamation': [],
+    'SummaryInformationReturnListing': [],
+    'Subsidiary': [],
+    'Returns': [],
+    'CharityMainGroupType': None,
+    'LatestFiling': {
+        'AnnualReturnPeriod': '31/03/2018',
+        'AnnualReturnReceived': '29/01/2019',
+        'AccountsPeriod': '31/03/2018',
+        'AccountsReceived': '29/01/2019 18:21:00',
+        'HasRecieveAnnualReturn': 1,
+        'HasRecieveAccounts': False,
+        'Message': 'AR18',
+        'Inactive_Status': 0,
+        'AccountsPeriodForDue': '31/03/2018',
+        'AccountsReceivedForDue': '29/01/2019 18:21:00',
+        'AnnualReturnReceivedForDue': '29/01/2019',
+        'HasRecieveAccountsForDue': False,
+        'HasRecieveAnnualReturnForDue': 1,
+        'EarliestMissingAR': '31/03/2019',
+        'EarliestMissingAccounts': '31/03/2019',
+        'LatestAccQualiifed': 0
+    },
+    'OrganisationType': 'R',
+    'InterimManager': None,
+    'PublishedReport': [],
+    'WasExempt': False,
+    'CIOIndicator': 'NEW',
+    'CIODateConstituted': '05/07/2017',
+    'CIODissolutionDate': None,
+    'IsCIODissolutionReceived': False,
+    'IsCIOAdminDissolution': False,
+    'IsSuspended': False,
+    'IsInsolvencyActDocsReceived': False,
+    'IsCIOOnAmalgamationNotice': False,
+    'LastRegistrationEvent': {
+        'CharityEventID': 649228,
+        'OrganisationNumber': 5101107,
+        'DateOfEvent': datetime.datetime(2017, 7, 5, 10, 15, 5),
+        'AssociatedOrganisationNumber': -1,
+        'CharityGroupID': -1,
+        'GroupSubsidarySuffix': 0,
+        'CharityEventReasonCode': None,
+        'CharityEventTypeCode': 'CIOR',
+        'RegisteredCharityNumber': 1173678,
+        'AssociatedRegisteredCharityNumber': -1,
+        'AssociatedCharityName': None,
+        'CharityEventClassCode': 'REG',
+        'CharityEventTypeNameEnglish': 'CHARITABLE INCORPORATED ORGANISATION',
+        'CharityEventTypeNameWelsh': 'SEFYDLIAD ELUSENNOL CORFFOREDIG'
+    },
+    'Insolvent': 0,
+    'InAdministration': 0,
+    'CIOConversionStatus': 0,
+    'ClassInquiry': 0,
+    'InSuspense': 0
+}
